@@ -179,6 +179,16 @@ nav a:hover{
     font-weight: bold;
 }
 
+
+
+.widget_img a{
+    
+    height: 20px;
+    height: 20px;
+    background-color: blue;
+    
+}
+
 .widget_title_bar{
     width: 50px;
     height: 2px;
@@ -299,6 +309,18 @@ footer .widget_title_text{
     color: #FFFFFF;
 }
 
+.fm_title {
+    font-size: 21px;
+    margin-top: 3px;
+    margin-bottom: px;
+}
+
+.fm_desc{
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
 .footer_copy{
     border-top: 1px solid #2c2c2c;
     height: 40px;
@@ -306,4 +328,5 @@ footer .widget_title_text{
     color: #5c5c5c;
     font-size: 12px;
     margin-top: 30px;
+    
 }
