@@ -7,3 +7,10 @@ window.onload = function () {
     }
   });
 };
+
+window.addEventListener('resize', function () {
+    var largura = window.innerWidth;
+
+    if (largura > 600)
+       document.querySelector(".menu nav ul").removeAttribute('style');
+    });

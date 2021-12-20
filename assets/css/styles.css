@@ -383,11 +383,7 @@ footer .widget_title_text{
 }
 
 
-@media(max-width:1024px){
-    nav ul{
-        display: flex;
-    }
-}
+
 
 
 @media(max-width:600px){
